@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="magenta">#ff008d</color>
+    <color name="morado">#6638e2</color>
+    <color name="cafe">#a6767c</color>
+    <color name="gris">#acacac</color>
+    <color name="negro">#1f2212</color>
+    <color name="rosado">#ff008d</color>
+    <color name="verdeneon">#00ff00</color>
+    <color name="cafeo">#8e402a</color>
+
+</resources>
